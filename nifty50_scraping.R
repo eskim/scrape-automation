@@ -4,6 +4,10 @@ library(tidyverse)
 library(rvest)
 library(janitor)
 
+
+
+
+
 #nse top gainers
 
 url <- 'https://www.moneycontrol.com/stocks/marketstats/nsegainer/index.php'
